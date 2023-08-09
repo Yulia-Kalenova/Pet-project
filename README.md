@@ -4,4 +4,4 @@
 
 |Название проекта  |Описание  |Инструменты  |Направления деятельности|
 |:--|:--|:--|:--|
-|[Анализ яндекс метрики сайта superwebsite.ru](https://github.com/Yulia-Kalenova/Pet-project/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%AF%D0%9C.ipynb) | Анализ поведения пользователей сайта ветриныsuperwebsite.ru .|Python, Pandas, Matplotlib, продуктовые метрики, визуализация данных  |Маркетинг-аналитик, Аналитика метрик|
+|[Анализ яндекс метрики сайта superwebsite.ru](https://github.com/Yulia-Kalenova/Pet-project/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%AF%D0%9C.ipynb) | Анализ метрик и поведения пользователей сайта-ветрины superwebsite.ru . |Python, Pandas, Matplotlib, продуктовые метрики, визуализация данных  |Маркетинг-аналитик, Аналитика метрик|
